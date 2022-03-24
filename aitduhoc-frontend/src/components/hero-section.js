@@ -36,8 +36,8 @@ const HeroSection = () => {
                     <a href="#">
                       <span className="sr-only">Workflow</span>
                       <img
-                        className="h-8 w-auto sm:h-20"
-                        src="images/logo.png"
+                        className="h-auto w-auto sm:h-20"
+                        src="images/logoNew.png"
                       />
                     </a>
                     <div className="-mr-2 flex items-center md:hidden">
