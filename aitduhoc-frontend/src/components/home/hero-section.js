@@ -36,7 +36,7 @@ const HeroSection = () => {
                     <a href="#">
                       <span className="sr-only">Workflow</span>
                       <img
-                        className="h-auto w-auto sm:h-20"
+                        className="h-8 w-auto sm:h-16"
                         src="images/logoNew.png"
                       />
                     </a>
@@ -122,22 +122,17 @@ const HeroSection = () => {
           <main className="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-                <span className="block xl:inline">Bắt đầu hành trình</span>
-                <br/>{" "}
-                <span className="block text-color2 xl:inline">
-                  du học
-                </span>{" "}
+                <span className="block xl:inline">Khởi đầu hành trình</span>{" "}
+                <span className="block text-color2 xl:inline">du học</span>{" "}
                 <span className="block xl:inline">của bạn</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
-                lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat
-                fugiat aliqua.
+                Với kiến thức về giáo dục quốc tế sâu rộng và thông tin di trú luôn được cập nhật, đội ngũ tư vấn du học và định cư AIT là lựa chọn đồng hành đúng đắn nhất cho các em và gia đình. 
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
                   <a
-                    href="#"
+                    href="/contact"
                     className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-color1 hover:bg-color2 md:py-4 md:text-lg md:px-10"
                   >
                     Khởi hành

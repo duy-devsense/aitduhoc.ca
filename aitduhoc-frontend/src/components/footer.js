@@ -22,15 +22,15 @@ const navigation = {
     { name: "Dịch vụ khác", href: "#" },
   ],
   support: [
-    { name: "Pricing", href: "#" },
-    { name: "Documentation", href: "#" },
-    { name: "Guides", href: "#" },
-    { name: "API Status", href: "#" },
+    { name: "Tư vấn miễn phí", href: "#" },
+    { name: "Nhập học", href: "#" },
+    { name: "Đặt vé máy bay", href: "#" },
+    { name: "Tìm homestay", href: "#" },
   ],
   company: [
     { name: "Giới thiệu", href: "#" },
     { name: "Blog", href: "#" },
-    { name: "Partners", href: "#" },
+    { name: "Trường đại diện", href: "#" },
   ],
   legal: [
     { name: "Claim", href: "#" },
@@ -184,7 +184,7 @@ export default function Footer() {
               Theo dõi bản tin của chúng tôi
             </h3>
             <p className="mt-4 text-base text-gray-300">
-              Tin tức, bài báo và tài nguyên mới nhất, được gửi đến hộp thư đến
+              Tin tức, bài báo và tài nguyên mới nhất, được gửi đến hộp thư
               của bạn hàng tuần.
             </p>
             <form className="mt-4 sm:flex sm:max-w-md">

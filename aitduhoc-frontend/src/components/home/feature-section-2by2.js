@@ -1,28 +1,28 @@
 /* This example requires Tailwind CSS v2.0+ */
-import { LightningBoltIcon, MailIcon, CalendarIcon, ShieldCheckIcon, UserGroupIcon } from '@heroicons/react/outline'
+import { LightningBoltIcon, CurrencyDollarIcon, ShieldCheckIcon, UserGroupIcon } from '@heroicons/react/outline'
 
 const features = [
     {
-        name: '90% Đạt Visa',
+        name: 'Dịch vụ nhanh chóng',
         description:
-        'Corporis quisquam nostrum nulla veniam recusandae temporibus aperiam officia incidunt at distinctio ratione.',
+        'AIT giúp giải thích, hướng dẫn các bước nộp hồ sơ xin nhập học và theo dõi, liên hệ trực tiếp để thúc đẩy các trường có kết quả sớm nhất.',
         icon: LightningBoltIcon,
     },
     {
-      name: '25 Năm kinh nghiệm',
-      description: 'Consequuntur omnis dicta cumque, inventore atque ab dolores aspernatur tempora ab doloremque.',
-      icon: CalendarIcon,
+      name: 'Tư vấn miễn phí',
+      description: 'Tư vấn, hướng dẫn thi thử, làm bài kiểm tra đầu vào, tư vấn chương trình và trường học phù hợp cho tiềm năng học tập, thị trường lao động và ngân sách.',
+      icon: CurrencyDollarIcon,
     },
   {
     name: 'Chính phủ Canada chứng nhận',
     description:
-      'Omnis, illo delectus? Libero, possimus nulla nemo tenetur adipisci repellat dolore eligendi velit doloribus mollitia.',
+      'Cô Vũ Như Quỳnh, cổ đông sáng lập AIT, được chính phủ Canada chứng nhận và trao danh hiệu Chuyên gia Tư vấn Di Trú Canada.',
     icon: ShieldCheckIcon,
   },
   {
     name: '300 Trường đại diện',
     description:
-      'Veniam necessitatibus reiciendis fugit explicabo dolorem nihil et omnis assumenda odit? Quisquam unde accusantium.',
+      'AIT là đại diện cho 300 trường trung học, cao đẳng, đại học và các trung tâm giáo dục ngôn ngữ tại Canada, Mỹ, Anh và các nước khác.',
     icon: UserGroupIcon,
   },
 ]
